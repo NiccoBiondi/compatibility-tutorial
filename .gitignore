@@ -1,0 +1,5 @@
+data/
+output/
+pretrained_models_ckpts/
+backup/
+*.zip
