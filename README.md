@@ -6,6 +6,7 @@ Welcome to our tutorial presented at the **ACM MultiMedia conference 2024**, hap
 ## 📚 Tutorial Outline
 For a visual summary of what this tutorial covers, check out our outline:
 ![Tutorial Outline](./assets/outline.png)
+<!-- <img src="drawing.jpg" alt="Tutorial Outline" width="200"/> -->
 
 ## 📓 Jupyter Notebooks
 Explore the Jupyter Notebooks we used during the tutorial in our [Notebooks Folder](./notebooks). These interactive notebooks are perfect for hands-on learning and are also available on Google Colab:
