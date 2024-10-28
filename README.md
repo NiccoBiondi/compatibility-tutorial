@@ -1,7 +1,7 @@
 # 🎓 Tutorial on Learning Backward-Compatible Representations
 Welcome to our tutorial presented at the **ACM MultiMedia conference 2024**, happening in Melbourne, Australia from October 28th to November 1st 2024.
 
-📅 **Slides Availability**: Our detailed slides will be available starting October 28th. Stay tuned!
+📅 **Slides Availability**: Slide are available [here](./assets/tutorial_slide.pdf)
 
 ## 📚 Tutorial Outline
 For a visual summary of what this tutorial covers, check out our outline:
