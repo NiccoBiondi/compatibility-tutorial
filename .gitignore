@@ -2,4 +2,6 @@ data/
 output/
 pretrained_models_ckpts/
 backup/
+.venv/
+venv/
 *.zip
